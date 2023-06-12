@@ -1,0 +1,65 @@
+[33mcommit e78d2c82c3da87bf268743f783daa21bea4fc053[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sun Jun 11 20:55:40 2023 -0300
+
+    Moving pieces
+
+[33mcommit 9228159568561b63157ee2bbabdd80c41160ef51[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sun Jun 11 20:16:52 2023 -0300
+
+    Little improvements in board printing
+
+[33mcommit ce0b67b6685344b528b8be23f1fb9bddcd6d7ceb[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sun Jun 11 14:41:28 2023 -0300
+
+    ChessException and ChessPosition
+
+[33mcommit 77c8b92b87ba34b16a10904b19beac7f79f1fe3f[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sun Jun 11 14:09:22 2023 -0300
+
+    Board exception and defensive programming
+
+[33mcommit 3d8592561b2fe85c8f3ebce2f6e866c592cd65ef[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sat Jun 10 18:14:14 2023 -0300
+
+    Placing pieces on the board
+
+[33mcommit d2313ae2acf374d03b2e892c4def92bc16c13639[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Sat Jun 10 17:55:46 2023 -0300
+
+    Chess layer and printBoard
+
+[33mcommit 15b8b25248ee75d0b05329a86b3a77155a7f995b[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Fri Jun 9 18:14:37 2023 -0300
+
+    Replaced GitIgnore
+
+[33mcommit dd8655691422b18353c93422747afab68144cc4b[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Fri Jun 9 18:07:54 2023 -0300
+
+    Added GitIgnore
+
+[33mcommit 0a35f41b54c62dbf62677d968ce4a1dca6631aaa[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Fri Jun 9 18:03:43 2023 -0300
+
+    Created class: Piece - Board
+
+[33mcommit 6d52ec6c910567efa4ea48f92e2739102bf1c807[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Fri Jun 9 17:29:34 2023 -0300
+
+    First class: Position
+
+[33mcommit 2bad3b49b79df71f46c788d4019e1e40dd781dc2[m
+Author: RamonJacques <ramonjacquesrs@gmail.com>
+Date:   Fri Jun 9 17:17:36 2023 -0300
+
+    Project created
