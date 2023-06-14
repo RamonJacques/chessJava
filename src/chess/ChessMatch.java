@@ -165,8 +165,7 @@ public class ChessMatch {
 	private boolean testCheckMate(Color color) {
 		if(!testCheck(color)) {
 			return false;
-		}
-		List<Piece> list = piecesOnTheBoard.stream().filter(x -> ((ChessPiece)x).getColor()== color).collect(Collectors.toList());
+		} List<Piece> list = piecesOnTheBoard.stream().filter(x -> ((ChessPiece)x).getColor()== color).collect(Collectors.toList());
 		for(Piece p : list) {
 			boolean[][] mat = p.possibleMoves();
 			for (int i = 0; i<board.getRows(); i++) {
@@ -227,10 +226,5 @@ public class ChessMatch {
         placeNewPiece('b', 8, new Knight(board, Color.BLACK));
         placeNewPiece('g', 8, new Knight(board, Color.BLACK));
         placeNewPiece('d', 8, new Queen(board, Color.BLACK));
-
-
-
-	}
-	
-	
+	}	
 }
